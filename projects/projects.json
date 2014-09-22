@@ -3580,6 +3580,27 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+	{
+      "name": "ZmapujTo.cz",
+      "thumb": "zmapujto-cz/thumb.png",
+      "desc": "Reporting platform intended for citizens to report civic issues. The ZmapujTo.cz project was started in mid 2011 as an eParticipation project and became the most popular environmental project in the Czech Republic.",
+      "url": "http://www.zmapujto.cz",
+      "submitter": "MiroslavKubasek",
+      "submissionDate": "2014-09-22",
+      "tags": [
+        "Production",
+		"Productivity",
+        "Bootstrap",
+        "AngularUI",
+        "Local Storage",
+        "jQuery",
+		"Google Maps",
+		"Node.js",
+		"AngularJS",
+		"MongoDB",
+        "Grunt"
+      ]
     }
 
   ]
